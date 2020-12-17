@@ -2,7 +2,7 @@ Social News Feed.
 
 Supporting the best, latest and most valued crypto tokens on CMC.
 
-News is the most prominent source of capital information on the web today, sharing and re-iterating on the information already accumulated only compounds the assurance that communities are given the best insight to the top tokens and Blockchain products and Decentralised applications. ]
+News is the most prominent source of capital information on the web today, sharing and re-iterating on the information already accumulated only compounds the assurance that communities are given the best insight to the top tokens and Blockchain products and Decentralised applications. 
 
 
 ###### Grants registered.

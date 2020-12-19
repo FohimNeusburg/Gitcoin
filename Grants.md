@@ -7,4 +7,6 @@ News is the most prominent source of capital information on the web today, shari
 
 ###### Grants registered.
 
-1) Start date: 6/12/2020 Finish Date: N/A Contributors: 0 Amount raised: 0 Banked: 0
+1) Start date: 6/12/2020 Finish Date: 19/12/2020 Contributors: 1 Amount raised: 0.30c Banked: 0
+
+2) Start date: 19/12/2020 Finish Date: N/A Contributors: 0 Amount raised: 0.00c Banked: 0

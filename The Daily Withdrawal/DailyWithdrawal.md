@@ -8,7 +8,7 @@
 
 (2) - 18/12/2020 - https://gitcoin.co/townsquare?tab=activity:512465 "7"
 
-(3) - 19/12/2020 - 
+(3) - 19/12/2020 - https://gitcoin.co/townsquare?tab=activity:513694 "16"
 
 (4) - 20/12/2020 -
 

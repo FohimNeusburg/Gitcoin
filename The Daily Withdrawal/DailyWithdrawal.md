@@ -1,4 +1,4 @@
-# DAILY WTIHDRAWL
+# DAILY WITHDRAWAL
 
 ###### A set of transactions pulled each day from the Ethereum Blockchain where by the logisitics of the transactions have been defined and understood to be diluted inside of each link post against each of the unique days stored below.
 

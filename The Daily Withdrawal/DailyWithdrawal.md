@@ -14,4 +14,14 @@
 
 (5) - 21/12/2020 - https://gitcoin.co/townsquare?tab=activity:515609 "27"
 
-(6) - 22/12/2020 - https://gitcoin.co/townsquare?tab=activity:516605 ""
+(6) - 22/12/2020 - https://gitcoin.co/townsquare?tab=activity:516605 "33"
+
+(7) - 23/12/2020 - https://gitcoin.co/townsquare?tab=activity:517861 ""
+
+(8) - 24/12/2020 -
+
+(9) - 25/12/2020 -
+
+(10) - 26/12/2020 -
+
+(11) - 27/12/2020 -

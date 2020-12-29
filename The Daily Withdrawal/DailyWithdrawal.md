@@ -4,24 +4,24 @@
 
 ## DATES
 
-(1) - 17/12/2020 - https://gitcoin.co/townsquare?tab=activity:507803 "4"
+(1) - 1/1/2021 -
 
-(2) - 18/12/2020 - https://gitcoin.co/townsquare?tab=activity:512465 "7"
+(2) - 2/1/2021 -
 
-(3) - 19/12/2020 - https://gitcoin.co/townsquare?tab=activity:513694 "16"
+(3) - 3/1/2021 -
 
-(4) - 20/12/2020 -
+(4) - 4/1/2021 -
 
-(5) - 21/12/2020 - https://gitcoin.co/townsquare?tab=activity:515609 "27"
+(5) - 5/1/2021 -
 
-(6) - 22/12/2020 - https://gitcoin.co/townsquare?tab=activity:516605 "33"
+(6) - 6/1/2021 - 
 
-(7) - 23/12/2020 - https://gitcoin.co/townsquare?tab=activity:517861 "38"
+(7) - 7/1/2021 -
 
-(8) - 24/12/2020 - https://gitcoin.co/townsquare?tab=activity:518472 "43"
+(8) - 8/1/2021 -
 
-(9) - 25/12/2020 - https://gitcoin.co/townsquare?tab=activity:519801 ""
+(9) - 9/1/2021 -
 
-(10) - 26/12/2020 -
+(10) - 10/1/2021 -
 
-(11) - 27/12/2020 -
+(11) - 11/1/2021 -

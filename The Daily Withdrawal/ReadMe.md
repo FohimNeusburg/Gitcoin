@@ -1,4 +1,4 @@
-# DailyWithdrawal
+# Daily Withdrawal
 
 A set of transactions from the Ethereum Blockchain.
 

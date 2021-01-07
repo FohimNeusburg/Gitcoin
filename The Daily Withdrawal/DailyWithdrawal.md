@@ -6,7 +6,7 @@
 
 (1) - 1/1/2021 
 
-(2) - 2/1/2021 - https://gitcoin.co/townsquare?tab=activity:526335 "5"
+(2) - 2/1/2021 - https://gitcoin.co/townsquare?tab=activity:526335 
 
 (3) - 3/1/2021 -
 
@@ -16,7 +16,7 @@
 
 (6) - 6/1/2021 - 
 
-(7) - 7/1/2021 -
+(7) - 7/1/2021 - https://gitcoin.co/townsquare?tab=activity:529711
 
 (8) - 8/1/2021 -
 

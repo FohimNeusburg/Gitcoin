@@ -4,9 +4,11 @@ The list of links below provide the codebase scripts to unique and individual to
 
 ### Tokens
 
-1) Basic cash - https://etherscan.io/address/0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a#code - 47 contracts
+1) Basic cash - https://etherscan.io/address/0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a#code
 
-2) Paxos token - https://etherscan.io/address/0x8e870d67f660d95d5be530380d0ec0bd388289e1#code -  1 contract
+2) Paxos token - https://etherscan.io/address/0x8e870d67f660d95d5be530380d0ec0bd388289e1#code
+
+3) Tether token - https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7#code 
 
 ### Non-Fungible Tokens
 
